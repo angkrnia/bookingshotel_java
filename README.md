@@ -1,7 +1,7 @@
 ## Kelompok 5 - Aplikasi Pemesanan Kamar Hotel
 
-**Angga Kurnia - 201011401198**/
-**Ardila Putri Nur Kharisma Dewi - 201011401217**/
+**Angga Kurnia - 201011401198**\
+**Ardila Putri Nur Kharisma Dewi - 201011401217**\
 **Unggul Prasetyo Utomo - 201011401212**
 
 *CATATAN :*
